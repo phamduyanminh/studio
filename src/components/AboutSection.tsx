@@ -9,28 +9,21 @@ export const AboutSection = () => {
         <h2 className="text-3xl font-bold text-center mb-8">About Me</h2>
         <Card className="max-w-3xl mx-auto">
           <CardHeader>
-            <CardTitle>Professional Summary</CardTitle>
+            <CardTitle>Martin Pham</CardTitle>
             <CardDescription>A brief overview of my background and experience.</CardDescription>
           </CardHeader>
           <CardContent>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              A software developer intern with over one year of experience building web applications and AI/ML solutions for the healthcare industry. Skilled in React, .NET, Node.js, JavaScript, C# and Python with a track record of developing web applications and implementing efficient AI systems.
             </p>
             <h3 className="text-xl font-semibold mt-4">Experience</h3>
             <ul className="list-disc list-inside">
-              <li>Web Developer at ABC Company (2018-2021)</li>
-              <li>Frontend Engineer at XYZ Corp (2021-Present)</li>
+              <li>AI/ML Developer Intern at Harris Computer (January, 2025 - August, 2025) | Toronto</li>
+              <li>Software Developer Intern at Harris Computer (March, 2023 - December, 2023) | Toronro</li>
             </ul>
             <h3 className="text-xl font-semibold mt-4">Education</h3>
             <ul className="list-disc list-inside">
-              <li>Bachelor of Science in Computer Science - University of Tech</li>
-            </ul>
-            <h3 className="text-xl font-semibold mt-4">Skills</h3>
-            <ul className="list-disc list-inside">
-              <li>JavaScript</li>
-              <li>React.js</li>
-              <li>Next.js</li>
-              <li>Tailwind CSS</li>
+              <li>Bachelor of Science in Computer Science - Sheridan College Institute of Technology</li>
             </ul>
           </CardContent>
         </Card>
